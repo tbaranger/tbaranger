@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbaranger
 - 👀 I’m interested in Mathematics, Statistics, Machine Learning and discovering new things!
-- 🌱 I’m currently learning how Convolutional Graph Neural Networks work for a class project
-- 💞️ I’m currently looking for a 6-month internship in Data Science
+- 🌱 I’m currently working through François Chollet's book "Deep Learning with Python (Second Edition)"
+- 💞️ I’m currently working as a Data Scientist at Thales
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/theophile-baranger/)
 
 <!---
