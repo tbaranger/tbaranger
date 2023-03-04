@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbaranger
 - 👀 I’m interested in Mathematics, Statistics, Machine Learning and discovering new things!
 - 🌱 I’m currently working through François Chollet's book "Deep Learning with Python (Second Edition)"
-- 💞️ I’m currently working as a Data Scientist at Thales
+- 💞️ I’m currently working as a Data Scientist
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/theophile-baranger/)
 
 <!---
