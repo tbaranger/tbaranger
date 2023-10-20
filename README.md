@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tbaranger
 - 👀 I’m interested in Mathematics, Statistics, Machine Learning and learning new skills!
-- 🌱 I’m currently learning about containerization using Docker
-- 💞️ I’m currently working as a Data Scientist
+- 🌱 I’m currently learning containerization using Docker
+- 💞️ I’m currently working as a Data Scientist / Machine Learning Engineer
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/theophile-baranger/)
 
 <!---
