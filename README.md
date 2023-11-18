@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning containerization using Docker
 - 💞️ I’m currently working as a Data Scientist / Machine Learning Engineer
 - 💻 I've recently taken an interest in Web Development as a side-project kind of thing
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/theophile-baranger/)
 
 <!---
 tbaranger/tbaranger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
